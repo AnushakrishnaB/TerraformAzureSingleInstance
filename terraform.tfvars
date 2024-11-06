@@ -1,0 +1,6 @@
+resource_group_location = "Canada Central"
+vnet_cidr               = "10.0.0.0/16"
+prod_subnet-1_cidr      = "10.0.1.0/24"
+subscription_id         = "xxxx"
+username                = "adminuser"
+vm_name                 = "prod_vm"
